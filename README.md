@@ -66,3 +66,33 @@ Note that the SQL files are included in case you want to run each of them indivi
 4. `insert_into_table_orders.sql`: This SQL file contains the SQL query to populate the `orders` table with some dummy data.
 5. `create_table_discount_codes.sql`: This SQL file contains the SQL query to create the `discount_codes` table.
 6. `insert_into_table_discount_codes.sql`: This SQL file contains the SQL query to populate the `discount_codes` table with some dummy data.
+
+#### Contributing
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
+
+#### Fork the Project
+Create your Feature Branch (git checkout -b feature/AmazingFeature)
+Commit your Changes (git commit -m 'Add some AmazingFeature')
+Push to the Branch (git push origin feature/AmazingFeature)
+Open a Pull Request
+(back to top)
+
+#### License
+Distributed under the MIT License. See LICENSE.txt for more information.
+
+(back to top)
+
+#### Contact
+James Conner - @your_twitter
+
+Project Link: https://github.com/your_username/repo_name
+
+(back to top)
+
+#### Author
+[Amit Jotwani](https://github.com/ajot)
+
+
+
